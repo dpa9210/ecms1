@@ -1,0 +1,117 @@
+@charset "utf-8";
+/* CSS Document */
+.tile {  
+  width: 100%;
+	display: inline-block;
+	box-sizing: border-box;
+	background: #fff;		
+	padding: 20px;
+	margin-bottom: 10px;
+	text-align:center;
+	a:hover {
+			background: darken(purple, 10%);
+		}	
+
+  }
+  .title {
+		margin-top: 0px;
+	}
+
+.dbtxt{
+	font-size: 25px;
+}
+
+body{
+	margin-bottom:60px;
+	margin-top:55px;
+	margin-left: 10px;
+ 	margin-right: 10px;
+ 	font-family:'Varela Round', sans-serif;
+ }
+
+.errorfont{
+	font-size:50px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    color: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.dashboard-bg{
+	background-color: #EEF1F5;
+}	
+
+.error {
+	color: #FF0000;
+	font-size: 15px;
+	font-style: italic;
+}
+
+.red {
+	color: #ff0000;
+	font-size: 12px;
+	font-style: italic;
+}
+
+.cst-panel-body{
+	border-bottom:2px solid #800080;
+	border-left:2px solid #800080;
+	border-right:2px solid #800080;
+
+}
+
+.dbdivs{
+	width: 200px;
+	height: 100px
+
+}
+
+.whitetxt{
+	color: white;
+}
+
+.bg-purple-hd{
+	background-color: #ffffff;
+	color: #800080;
+} 
+
+.bg-purple{
+	background-color: #800080;
+	color:#ffffff;
+}
+
+.bg-red{
+	background-color: #FF0000;
+	color: #ffffff;
+}
+
+.center{
+	text-align:center;
+}
+
+.right{
+	text-align: right;
+}
+	
+
+.green{
+	background-color: Green;
+}
+
+.errormsg{
+	color:Red;
+	font-size:18px;
+}
+
