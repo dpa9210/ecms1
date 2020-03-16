@@ -110,10 +110,7 @@ CREATE TABLE `thrift_table` (
 --
 
 INSERT INTO `thrift_table` (`thrift_id`, `thrift_amount`, `user_id`, `thrift_year`, `thrift_date`, `thrift_status`) VALUES
-(4, 20000, 9, '2019', 'Sunday, 06 Jan 2019', '1'),
 (7, 20000, 1, '2019', 'Saturday, 26 Jan 2019', '1'),
-(8, 20000, 6, '2019', 'Thursday, 31 Jan 2019', '1'),
-(9, 3000, 16, '2019', 'Saturday, 09 Feb 2019', '1');
 
 -- --------------------------------------------------------
 
